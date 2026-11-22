@@ -1,1 +1,1 @@
-Hello git, have a good fay
+Hello git
