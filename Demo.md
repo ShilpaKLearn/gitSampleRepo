@@ -1,2 +1,1 @@
-Learn 
-Revert Learning
+Learn command
